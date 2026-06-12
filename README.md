@@ -28,7 +28,6 @@
 ├── scraper.py                      # 数据抓取脚本
 ├── weekly_monitor.py               # 定时监测脚本
 ├── 宣城运营商项目清单.py            # Excel生成脚本
-├── 宣城运营商项目清单_2026年5月以来.xlsx  # 项目数据清单
 └── README.md                       # 项目说明
 ```
 
